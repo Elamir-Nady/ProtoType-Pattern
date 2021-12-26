@@ -1,0 +1,16 @@
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.exe
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.deps.json
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.runtimeconfig.json
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.runtimeconfig.dev.json
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.dll
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ref\ProtoType Pattern.dll
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\bin\Debug\net5.0\ProtoType Pattern.pdb
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.csproj.AssemblyReference.cache
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.AssemblyInfoInputs.cache
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.AssemblyInfo.cs
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.dll
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ref\ProtoType Pattern.dll
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.pdb
+D:\Projects\DotNet\Design Patterns\ProtoType Pattern\ProtoType Pattern\obj\Debug\net5.0\ProtoType Pattern.genruntimeconfig.cache
